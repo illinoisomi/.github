@@ -1,4 +1,3 @@
-# .github
 # Office of Medicaid Innovation
 
 ## About
